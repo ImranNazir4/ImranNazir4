@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ImranNazir4
 - 👀 I’m interested in Data Analytics and Business Intelligence
 - 💞️ I’m looking to collaborate on Data warehousing and Building Visualizations
-- 📫 How to reach me via mail imrnazir8@gmail.com
+- 📫 Reach me via mail imrnazir8@gmail.com
 
 <!---
 ImranNazir4/ImranNazir4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
